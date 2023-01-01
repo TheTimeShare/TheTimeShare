@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Walk-A-Buddy](https://github.com/TheTimeShare/Walk-A-Buddy)
 
-- 🌱 I’m currently learning **Swift and Objective-C**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [Walk-A-Buddy](https://github.com/TheTimeShare/Walk-A-Buddy)
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheTimeShare](https://github.com/TheTimeShare)
 
-- 💬 Ask me about **Python and Swift**
+- 💬 Ask me about **Apple and old Lada´s (Vaz)**
 
 - 📫 How to reach me **aleckozlov@mail.ru**
 
