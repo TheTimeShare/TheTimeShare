@@ -44,6 +44,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thetimeshare&show_icons=true&locale=en&layout=compact" alt="thetimeshare" /></p>
 
+<p> </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thetimeshare&show_icons=true&locale=en" alt="thetimeshare" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thetimeshare&" alt="thetimeshare" /></p>
