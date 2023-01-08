@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/@aleckozlov" target="blank"><img src="https://img.shields.io/twitter/follow/@aleckozlov?logo=twitter&style=for-the-badge" alt="@aleckozlov" /></a> </p>
 
-- 🔭 I’m currently working on [Walk-A-Buddy](https://github.com/TheTimeShare/Walk-A-Buddy)
+- 🔭 I’m currently working on Project Katana (Currently private)
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Walk-A-Buddy](https://github.com/TheTimeShare/Walk-A-Buddy)
+- 👯 I’m looking to collaborate on Project Katana
 
-- 🤝 I’m looking for help with [Walk-A-Buddy](https://github.com/TheTimeShare/Walk-A-Buddy)
+- 🤝 I’m looking for help with Project Katana
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheTimeShare](https://github.com/TheTimeShare)
 
-- 💬 Ask me about **Apple and old Lada´s (Vaz)**
+- 💬 Ask me about anything!
 
 - 📫 How to reach me **aleckozlov@mail.ru**
 
