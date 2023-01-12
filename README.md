@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on Project Katana
+- 👯 I’m looking to collaborate on **Project Nensi**
 
-- 🤝 I’m looking for help with Project Katana
+- 🤝 I’m looking for help with **Project Nensi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheTimeShare](https://github.com/TheTimeShare)
 
