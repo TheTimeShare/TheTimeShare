@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@aleckozlov" target="blank"><img src="https://img.shields.io/twitter/follow/@aleckozlov?logo=twitter&style=for-the-badge" alt="@AlecKozlov" /></a> </p>
 
-- 🔭 I’m currently working on Project Katana (Currently private)
+- 🔭 I’m currently working on **Project Nensi** (Currently private)
 
 - 🌱 I’m currently learning **Python**
 
