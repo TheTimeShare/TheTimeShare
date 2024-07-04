@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@aleckozlov" target="blank"><img src="https://img.shields.io/twitter/follow/@aleckozlov?logo=twitter&style=for-the-badge" alt="@AlecKozlov" /></a> </p>
 
-- 🔭 I’m currently working on **Project Nensi** (Currently private)
+- 🔭 I’m currently working on **Project FlexyToCalender** (Released to public!)
 
 - 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **Project Nensi**
-
-- 🤝 I’m looking for help with **Project Nensi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheTimeShare](https://github.com/TheTimeShare)
 
